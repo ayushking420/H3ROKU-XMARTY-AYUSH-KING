@@ -1,6 +1,0 @@
-{"name": "appname",
-  "type": "node hai ya python",
-  "repository": "repository url",
-  "scripts": {
-    "build": "build command",
-    "start": "agar node hai to node scriprname.js ya python hai to python main.py"}
